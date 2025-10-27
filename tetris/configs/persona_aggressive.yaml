@@ -1,0 +1,26 @@
+persona_weights:
+  single_clear: 50.0
+  double_clear: 200.0
+  triple_clear: 600.0
+  tetris_clear: 2500.0
+  game_over: -800.0
+  survival: 0.5
+  piece_placed: 3.0
+  hole_created: -20.0
+  hole_filled: 20.0
+  height_increase: -5.0
+  height_decrease: 15.0
+  bumpiness_increase: -3.0
+  bumpiness_decrease: 5.0
+  well_created: 10.0
+  well_filled: -5.0
+  line_setup: 5.0
+  tetris_setup: 40.0
+  combo_bonus: 80.0
+  efficiency: 10.0
+  height_danger_threshold: 0.85
+  danger_penalty: -10.0
+  invalid_action: -2.0
+  waste_movement: -0.5
+  low_placement: 1.0
+  coverage: 1.0

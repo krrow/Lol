@@ -1,0 +1,12 @@
+persona_weights:
+  win_bonus: 100.0
+  loss_penalty: -100.0
+  guess_penalty_base: -1.0
+  info_gain_reward: 6.0
+  letter_discovery: 4.0
+  position_discovery: 3.0
+  repeated_guess_penalty: -10.0
+  invalid_guess_penalty: -15.0
+  diversity_bonus: 3.0
+  efficiency_multiplier: 0.8
+  progress_reward: 0.5
